@@ -1,6 +1,6 @@
 /*
-Name:Allan kimutai
-Reg:PA106/G/28722/25
+Name:Felistus Chepkurui
+Reg:PA106/G/28718/25
 programm Water Bill Calculator
 */
 
@@ -29,4 +29,5 @@ int main() {
     printf("Total bill: %.2f KES\n", totalBill);
 
     return 0;
+
 }
