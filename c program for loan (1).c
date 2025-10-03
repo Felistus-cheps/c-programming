@@ -1,6 +1,6 @@
 /*
-Name:Allan kimutai
-Reg No:PA106/G/28722/25
+Name:Felistus Chepkurui
+Reg No:PA106/G/28718/25
 Description:program for a loan 
 */
 #include<stdio.h>
