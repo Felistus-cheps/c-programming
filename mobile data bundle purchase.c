@@ -1,6 +1,6 @@
 /*
-Name: Allan kimutai 
-Reg:PA106/G/28722/25
+Name: Felistus Chepkurui 
+Reg:PA106/G/28718/25
 Programm of mobile data purchase
 */
 #include <stdio.h>
@@ -40,4 +40,5 @@ int main() {
     }
 
     return 0;
+
 }
