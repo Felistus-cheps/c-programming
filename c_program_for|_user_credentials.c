@@ -1,6 +1,6 @@
 /*
-Name:Allan kimutai 
-Reg:PA106/G/28722/25
+Name:Felistus Chepkurui 
+Reg:PA106/G/28718/25
 Description:program to prompt the user
 */
 #include<stdio.h>
